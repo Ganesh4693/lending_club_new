@@ -148,3 +148,12 @@ curl -X POST http://localhost:8000/predict \
 | purpose                | string | debt_consolidation / credit_card / home_improvement |
 | address                | string | 5-digit zip code                                    |
 | application_type       | string | Individual / Joint App                              |
+
+
+
+
+##  Git Commands
+
+git add -A
+git commit -m"model training"
+git push
