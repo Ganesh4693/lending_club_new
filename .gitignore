@@ -1,1 +1,73 @@
 lending_club_loan_two.csv
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+lib/
+lib64/
+wheels/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# Model artifacts
+*.keras
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+*.joblib
+saved_model/
+checkpoints/
+
+# Logs & outputs
+logs/
+*.log
+runs/
+tensorboard/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Docker
+*.tar
