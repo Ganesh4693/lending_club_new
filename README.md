@@ -157,3 +157,9 @@ curl -X POST http://localhost:8000/predict \
 git add -A
 git commit -m"model training"
 git push
+
+
+
+Correct — you use either venv or conda, not both. They do the same job.
+venvcondaActivatesource venv/bin/activateconda activate lendingDeactivatedeactivateconda deactivatePython versionUses system PythonCan install any Python versionPackage managerpip onlypip + conda
+
